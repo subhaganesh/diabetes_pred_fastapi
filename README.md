@@ -1,4 +1,4 @@
-!(image)[https://d2jx2rerrg6sh3.cloudfront.net/images/Article_Images/ImageForArticle_22744_16565132428524067.jpg]
+![image](https://d2jx2rerrg6sh3.cloudfront.net/images/Article_Images/ImageForArticle_22744_16565132428524067.jpg)
 # diabetes fastapi project
 The "Diabetes FastAPI Project" is a web application built using the FastAPI framework and Python. Its main purpose is to provide a simple API for predicting whether a person is diabetic or not based on input features such as medical measurements and age. The model used for prediction is a machine learning model trained on a dataset of diabetes-related information.
 
