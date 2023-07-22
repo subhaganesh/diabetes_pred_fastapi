@@ -4,3 +4,5 @@ pydantic
 scikit-learn
 requests
 pypi_json
+pyngrok
+nest-asyncio

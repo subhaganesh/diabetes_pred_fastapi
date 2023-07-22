@@ -1,6 +1,7 @@
 import json
 import requests
 
+#url='https://6781-34-86-158-158.ngrok.io/diabetes_pred'  # this is used for public url 
 url='http://127.0.0.1:8000/diabetes_pred'
 
 input_data_for_model= {
