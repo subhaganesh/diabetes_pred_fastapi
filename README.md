@@ -19,7 +19,8 @@ Overall, the "Diabetes FastAPI Project" is a user-friendly and efficient web app
 ## How to use this project for prediction 
 Download the files and go to command prompt
 
-*cd <your path for project>
+*cd (your path for project)
+
 *uvicorn <file_name>:app  (instance name, here the instance is app)
 
 run this above two commands a local host will be created ,localhost/docs 
