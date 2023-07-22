@@ -17,7 +17,9 @@ The "Diabetes FastAPI Project" is a web application built using the FastAPI fram
 Overall, the "Diabetes FastAPI Project" is a user-friendly and efficient web application that utilizes machine learning to predict diabetes risk based on user-provided data. It can be deployed on a server and accessed through API requests, making it suitable for integration with various applications, including web and mobile platforms.
 
 ## How to use this project for prediction 
-Download the files and go to command prompt 
+Download the files and go to command prompt
+
 *cd <your path for project>
 *uvicorn <file_name>:app  (instance name, here the instance is app)
+
 run this above two commands a local host will be created ,localhost/docs 
