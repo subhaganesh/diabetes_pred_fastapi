@@ -23,4 +23,6 @@ Download the files and go to command prompt
 
 *uvicorn <file_name>:app  (instance name, here the instance is app)
 
-run this above two commands a local host will be created ,localhost/docs 
+run this above two commands a local host will be created  
+
+Then type localhost/docs a swagger fastapi frontend application will be created 
